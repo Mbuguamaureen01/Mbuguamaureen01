@@ -1,5 +1,7 @@
-Statistician | Data Scientist | Machine Learning Engineer
+Statistician | Data Scientist | Machine Learning Engineer.
+
 An R vs Python antagonist.
+
 I'll share what I learn and also find hard to get! I hope it helps you.
 
 
