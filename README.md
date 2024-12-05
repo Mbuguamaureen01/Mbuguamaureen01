@@ -2,7 +2,7 @@ Statistician | Data Scientist | Machine Learning Engineer.
 
 An R vs Python antagonist.
 
-I'll share what I learn and also find hard to get! I hope it helps you.
+I'll share what I learn and also resources I find hard to get! I hope it helps you...
 
 
 
