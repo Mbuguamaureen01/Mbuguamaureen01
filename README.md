@@ -11,14 +11,7 @@ Languages: Python, R
 Frameworks/Tools: Pandas, Numpy, Scikitlearn, Matplotlib, Tensorflow, TidyVerse 
 Other: Git, PowerBi, SQL, Airflow, Dbt, Docker, Linux, 
 
-
-Check out more of my work in the Repositories tab!
-📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbuguamaureen01
-)](https://github.com/anuraghazra/github-readme-stats)
-
 📫 Get in Touch
-
 📧 Email: maureenmbugua01@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/maureenmbugua/  
 🌐 Website: Coming soon!
@@ -28,6 +21,11 @@ Check out more of my work in the Repositories tab!
 🎮 Avid reader, yes I'm a book worm! 
 ☕ I love my Coffee and I'm a code-fueled night owl.  
 🌌 Fascinated by the concepts of Neuroscience, NeuroPlasticity, Epigenetics and AI advancements.
+
+Check out more of my work in the Repositories tab!
+📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbuguamaureen01
+)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for visiting my profile! Let's connect and build something awesome together! 🚀
 <!---
