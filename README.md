@@ -53,7 +53,6 @@ Explore more in my Repositories!
 📊 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbuguamaureen01
-
 )](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for stopping by! Let’s collaborate on something awesome! 🙌
