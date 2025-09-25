@@ -1,4 +1,3 @@
-README
 Hi, I'm Maureen, a data sceintist and Machine learning engineer from Nairobi, Kenya.
 I'm passionate about DL/ML reasearch especially in the fields of Recurrent Neural Networks, Natural Language processing and Computer Vision.
 
