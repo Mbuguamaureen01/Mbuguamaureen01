@@ -28,9 +28,10 @@ jobs:
             pixel: '#39d353'
             # Color of dots before being eaten
             color_snake_head: '#39d353'
-            color_snake_body: '#28a745'
-            color_contrast: '#000000'
-            color_empty: '#161b22'
+            color_snake_body: '#39d353'
+            # Dots that haven't been eaten yet
+            color_empty: '#000000'
+            color_contrast: '#39d353'
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
