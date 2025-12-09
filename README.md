@@ -98,16 +98,6 @@ currently_learning: ["Advanced MLOps", "Real-time Data Processing", "GenAI"]
   </picture>
 </div>
 
-<br/>
-
-## 🏆 <span style="color: #FDA769;">Trophy Case! 🎖️</span>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mbuguamaureen01&theme=juicyfresh&no-frame=true&no-bg=false&column=7&margin-w=15&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 ---
 
 <!-- Robert Greene Final Quote -->
