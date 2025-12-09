@@ -18,20 +18,14 @@ jobs:
         with:
           github_user_name: Mbuguamaureen01
           outputs: dist/snake.svg
-          palette: |
-            # Background
-            background: '#000000'
-            # Snake colors
-            snake: '#39d353'
-            # Eaten dots animation
-            pixel: '#39d353'
-            # Color of snake head and body
-            color_snake_head: '#39d353'
-            color_snake_body: '#39d353'
-            # Dots that haven't been eaten yet
-            color_empty: '#000000'
-            # Contrast color (dots grid)
-            color_contrast: '#39d353'
+          args: >
+            --background '#000000'
+            --snake '#39d353'
+            --pixel '#39d353'
+            --color_snake_head '#39d353'
+            --color_snake_body '#39d353'
+            --color_empty '#000000'
+            --color_contrast '#39d353'
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
