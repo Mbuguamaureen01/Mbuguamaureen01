@@ -86,19 +86,9 @@ currently_learning: ["Advanced MLOps", "Real-time Data Processing", "GenAI"]
 
 ---
 
-<br/>
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/Mbuguamaureen01/Mbuguamaureen01/output/snake.svg)
 
-## 🐍 <span style="color: #FEC868;">Contribution Snake</span>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mbuguamaureen01/Mbuguamaureen01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mbuguamaureen01/Mbuguamaureen01/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mbuguamaureen01/Mbuguamaureen01/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 <!-- Robert Greene Final Quote -->
 <div align="center">
