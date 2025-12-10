@@ -1,18 +1,14 @@
 name: Generate Snake
-
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -20,13 +16,8 @@ jobs:
           outputs: dist/snake.svg
           args: >
             --background '#000000'
-            --snake '#39d353'
-            --pixel '#39d353'
-            --color_snake_head '#39d353'
-            --color_snake_body '#39d353'
-            --color_empty '#000000'
-            --color_contrast '#39d353'
-
+            --color_snake '#39d353'
+            --color_dots '#000000,#39d353,#39d353,#39d353,#39d353'
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
