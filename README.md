@@ -1,89 +1,78 @@
-<div align="center">
+## Hey there 👋🏾
 
-<h1>👋 Hi there, I’m <span style="color:#39d353;">Maureen Mbugua</span></h1>
+I’m **Maureen Mbugua** — an **AI / Machine Learning Engineer** and **Data Engineer** based in **Nairobi, Kenya 🇰🇪**, passionate about building intelligent systems that solve real-world business problems.
 
-<h3>Data Engineer | Machine Learning Engineer</h3>
-
-<p>
-Building <b>scalable data systems</b> and deploying
-<b>production-ready ML & AI solutions</b>
-</p>
-
-</div>
+My journey started in **data analytics and BI**, working with SQL, Excel, and dashboards. Over time, I transitioned into **data engineering**, and today I focus on **production AI systems** — especially **RAG-based AI agents**, **ML deployment**, and **scalable data pipelines**.
 
 ---
 
-## 💡 About Me
+### 🔍 A little about me...
 
-<p>
-I design and implement <b>end-to-end data pipelines</b> — from ingestion and transformation
-to analytics and <b>real-time dashboards</b>.
-I also build <b>machine learning models</b> and <b>AI agents</b> that integrate cleanly into
-business workflows.
-</p>
+I began by wrangling spreadsheets, writing SQL queries, and building Power BI dashboards to support decision-making. As I explored Machine Learning and automation, I discovered a deeper interest in **end-to-end systems** — not just models, but how they integrate with real data, users, and operations.
 
-<p>
-My work emphasizes <b>reliability</b>, <b>scalability</b>, and <b>measurable impact</b>,
-with hands-on experience taking ML and AI systems
-<b>from development to production</b>.
-</p>
+Fast-forward to today, I’m:
 
-<p>
-I have practical experience with <b>model deployment</b>, <b>monitoring</b>,
-and <b>MLOps orchestration</b>, including
-<b>LangChain-based agent workflows</b>.
-</p>
+- 🤖 **Building production-grade AI agents** using the **LangChain / LangGraph ecosystem**
+- 🧠 Designing **RAG-based conversational systems** grounded in domain knowledge
+- 🗄️ Working with **MongoDB** for memory & persistence and **Qdrant** as a vector database
+- ⚙️ Deploying AI & ML systems with **Python + FastAPI**
+- 📊 Engineering scalable **data pipelines** and analytics solutions for **38+ retail stores**
+- 🔁 Automating business workflows across inventory, forecasting, and reporting
 
 ---
 
-## 🔧 What I Work With
+### 🧪 Lately into...
 
-<ul>
-  <li>⚙️ Scalable data pipelines & ETL/ELT systems</li>
-  <li>🧮 SQL & Python-based data processing</li>
-  <li>🤖 Machine Learning & Deep Learning models</li>
-  <li>🚀 Model deployment, monitoring & MLOps workflows</li>
-  <li>🧠 AI applications & agentic systems (LangChain)</li>
-</ul>
+These days you’ll find me deep into **Generative AI and agentic systems** — designing AI assistants that integrate **LLMs with structured business data**, real-time inventory, and knowledge bases.
 
----
+One example is an **AI-powered virtual assistant for retail health stores**, built with:
+- Retrieval-Augmented Generation (RAG)
+- LangChain / LangGraph
+- MongoDB (long-term memory)
+- Qdrant (vector search)
+- FastAPI (production API layer)
 
-## 🚀 Current Focus
-
-<ul>
-  <li>Building <b>scalable, fault-tolerant data pipelines</b></li>
-  <li>Deploying and maintaining <b>ML models in production</b></li>
-  <li>Developing <b>AI-powered systems</b> that integrate with live data</li>
-</ul>
+I enjoy building systems that go beyond demos — **AI that actually runs in production** and creates measurable impact.
 
 ---
 
-## 🧠 Core Interests
+### 🤝 I believe in...
 
-<p>
-Data Engineering • MLOps & ML Systems • Data Science • AI / Machine Learning
-</p>
-
----
-
-## 📚 Currently Learning
-
-<ul>
-  <li>Advanced MLOps & model lifecycle management</li>
-  <li>Real-time data processing & streaming architectures</li>
-  <li>Generative AI & agent-based systems</li>
-</ul>
+- Learning in public 📣  
+- Building with purpose ⚙️  
+- Growing while lifting others 🤍  
+- Experimenting like a scientist, shipping like an engineer 🚀  
 
 ---
 
-## 🤝 Let’s Connect
+## 🛠️ My Current Stack & Tools
 
-<p>
-I’m open to <b>Data Engineering, ML Engineering, and AI collaborations</b> — especially
-projects focused on real-world impact and production systems.
-</p>
+### 🤖 AI, ML & Generative AI
+- Python 🐍  
+- Machine Learning & Deep Learning  
+- LangChain ⛓️, LangGraph  
+- Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- Vector Databases: **Qdrant**  
+- Prompt engineering & tool calling  
 
-<p>
-📫 <b>Email:</b>
-<a href="mailto:maureenmbugua01@gmail.com">maureenmbugua01@gmail.com</a>
-</p>
+### 📊 Data Engineering & Analytics
+- SQL (PostgreSQL, MySQL, SQL Server)  
+- Pandas 🐼, NumPy  
+- ETL / ELT pipelines  
+- Data modeling & warehousing  
+- Power BI 📊, Excel  
+
+### ⚙️ Engineering & Ops
+- FastAPI (API development)  
+- MongoDB  
+- Git & GitHub  
+- Linux / Bash  
+- Exploring: Airflow, GCP, MLOps tooling  
+
+---
+
+### 💬 Fun fact
+
+Some of my most exciting AI projects live in **private repositories** — production systems and products in active development.  
+If you’re interested in **AI, data engineering, or collaborations**, just reach out 😄
