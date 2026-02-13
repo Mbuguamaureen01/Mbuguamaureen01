@@ -19,4 +19,4 @@ Analytics & data pipelines
 Analytics Engineering, Data Engineering, SQL, data modeling, Power BI, and building reliable reporting systems.
 
 📫 **How to reach me:**  
-[Email](mailto:maureenmbugua@gmail.com) · [LinkedIn](https://www.linkedin.com/in/maureenmbugua/) · [Twitter](https://x.com/MaureenMbugua01) · [Website](https://maureenmbugua.netlify.app/)
+[Email](mailto:maureenmbugua@gmail.com)
